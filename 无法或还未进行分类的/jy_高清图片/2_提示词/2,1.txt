@@ -1,0 +1,4 @@
+{{{solo}}},highres,{best quality};{highly detailed},beautiful detailed blue eyes,light blush,expressionless,white hair,hair fluttering in the wind,mechanical arm armor,mechanical body armor,clothes,riding motor,{bodysuit,ruins of city in war,fire,burning cars,burning buildings,air force fleet in the sky,dusk,bird see
+{{独奏}}，高清晰度，{最佳质量}；{高度详细}，美丽的蓝色眼睛，浅红，无表情，白发，头发在风中飘动，机械手臂盔甲，机械身体盔甲，衣服，骑车，{紧身衣，战争中的城市废墟，火灾，燃烧的汽车，燃烧的建筑物，空中的空军舰队，黄昏，鸟瞰
+改版：
+highres,{best quality};{highly detailed},beautiful detailed blue eyes,light blush,expressionless,white hair,hair fluttering in the wind,mechanical arm armor,mechanical body armor,clothes,riding motor,{bodysuit,ruins of city in war,fire,burning cars,burning buildings,air force fleet in the sky,dusk,bird see
