@@ -17,7 +17,7 @@
 
 接下来选择“code”
 
-![image](Project_Description_Images\PixPin_2024-03-31_14-57-28.png)
+![image]Project_Description_Images\PixPin_2024-03-31_14-57_28.png)
 
 然后你会看到这样，复制链接
 
