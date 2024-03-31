@@ -17,7 +17,7 @@
 
 接下来选择“code”
 
-![image](Project Description Images\PixPin_2024-03-31_14-57-28.png)
+![image](Project_Description_Images\PixPin_2024-03-31_14-57-28.png)
 
 然后你会看到这样，复制链接
 
@@ -31,7 +31,7 @@
 
 输入 "git clone + 本项目地址"，项目地址直接粘贴就行
 
-[![图片无法显示]](Project Description Images\PixPin_2024-03-31_14-57-53.png)
+![image](Project Description Images\PixPin_2024-03-31_14-57-53.png)
 
 可能时间会很长...（推荐挂梯子，谁的学习资料不大）
 
