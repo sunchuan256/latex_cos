@@ -17,32 +17,32 @@
 
 接下来选择“code”
 
-![image]Project_Description_Images\PixPin_2024-03-31_14-57_28.png)
+![image](Project_Description_Images\1.png)
 
 然后你会看到这样，复制链接
 
-![image](Project Description Images\PixPin_2024-03-31_14-57-01.png)
+![image](Project Description Images\0.png)
 
 这里假设你已经安装好git（网上教程很多自己搜）
 
 在任意位置打开git
 
-![image](Project Description Images\PixPin_2024-03-31_15-14-27.png)
+![image](Project Description Images\6.png)
 
 输入 "git clone + 本项目地址"，项目地址直接粘贴就行
 
-![image](Project Description Images\PixPin_2024-03-31_14-57-53.png)
+![image](Project Description Images\2)
 
 可能时间会很长...（推荐挂梯子，谁的学习资料不大）
 
-![image](Project Description Images\PixPin_2024-03-31_14-58-11.png)
+![image](Project Description Images\3.png)
 
 接下来在你打开git的位置会有一个名字是"latex_cos"的文件夹，就像像这样：
 
-![image](Project Description Images\PixPin_2024-03-31_14-58-48.png)
+![image](Project Description Images\4.png)
 
 打开文件夹，恭喜各位禽兽，可以尽情发泄自己的兽欲了！！！
 
-![image](Project Description Images\PixPin_2024-03-31_15-02-06.png)
+![image](Project Description Images\5.png)
 
 
