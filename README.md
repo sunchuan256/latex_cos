@@ -17,7 +17,7 @@
 
 接下来选择“code”
 
-![image](Project_Description_Images\1.png)
+![image](*\Project_Description_Images\1.png)
 
 然后你会看到这样，复制链接
 
