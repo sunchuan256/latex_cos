@@ -17,32 +17,32 @@
 
 接下来选择“code”
 
-![image](*\Project_Description_Images\1.png)
+![image](https://github.com/sunchuan256/latex_cos/blob/master/Project_Description_Images/1.png)
 
 然后你会看到这样，复制链接
 
-![image](Project Description Images\0.png)
+![image](https://github.com/sunchuan256/latex_cos/blob/master/Project_Description_Images/0.png)
 
 这里假设你已经安装好git（网上教程很多自己搜）
 
 在任意位置打开git
 
-![image](Project Description Images\6.png)
+![image](https://github.com/sunchuan256/latex_cos/blob/master/Project_Description_Images/6.png)
 
 输入 "git clone + 本项目地址"，项目地址直接粘贴就行
 
-![image](Project Description Images\2)
+![image](https://github.com/sunchuan256/latex_cos/blob/master/Project_Description_Images/2.png)
 
 可能时间会很长...（推荐挂梯子，谁的学习资料不大）
 
-![image](Project Description Images\3.png)
+![image](https://github.com/sunchuan256/latex_cos/blob/master/Project_Description_Images/3.png)
 
 接下来在你打开git的位置会有一个名字是"latex_cos"的文件夹，就像像这样：
 
-![image](Project Description Images\4.png)
+![image](https://github.com/sunchuan256/latex_cos/blob/master/Project_Description_Images/4.png)
 
 打开文件夹，恭喜各位禽兽，可以尽情发泄自己的兽欲了！！！
 
-![image](Project Description Images\5.png)
+![image](https://github.com/sunchuan256/latex_cos/blob/master/Project_Description_Images/5.png)
 
 
