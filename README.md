@@ -47,14 +47,11 @@
 
 优秀示例：
 
-![image](https://github.com/sunchuan256/latex_cos/blob/master/%E6%97%A0%E6%B3%95%E6%88%96%E8%BF%98%E6%9C%AA%E8%BF%9B%E8%A1%8C%E5%88%86%E7%B1%BB%E7%9A%84/temp/9f0dd3c3gy1fw54nz425nj21401o04qq_result (1).png)
+![image](https://github.com/sunchuan256/latex_cos/blob/master/%E6%97%A0%E6%B3%95%E6%88%96%E8%BF%98%E6%9C%AA%E8%BF%9B%E8%A1%8C%E5%88%86%E7%B1%BB%E7%9A%84/temp/9f0dd3c3gy1fw54nz425nj21401o04qq_result.png)
 
 ![image](https://github.com/sunchuan256/latex_cos/blob/master/%E6%97%A0%E6%B3%95%E6%88%96%E8%BF%98%E6%9C%AA%E8%BF%9B%E8%A1%8C%E5%88%86%E7%B1%BB%E7%9A%84/jy_%E9%AB%98%E6%B8%85%E5%9B%BE%E7%89%87/%E6%8A%B1%E8%B5%B0%E8%8E%AB%E5%AD%90aa/%E8%8E%AB%E5%AD%90_%E5%AE%A4%E5%A4%96%E8%B5%B0%E5%BB%8A/679373c5b8f4380e7310258a85c5976b6bb776f7.jpg)
 
 ![image](https://github.com/sunchuan256/latex_cos/blob/master/%E6%97%A0%E6%B3%95%E6%88%96%E8%BF%98%E6%9C%AA%E8%BF%9B%E8%A1%8C%E5%88%86%E7%B1%BB%E7%9A%84/jy_%E9%AB%98%E6%B8%85%E5%9B%BE%E7%89%87/%E6%8A%B1%E8%B5%B0%E8%8E%AB%E5%AD%90aa/%E8%8E%AB%E5%AD%90_%E7%B4%AB%E8%89%B2_%E7%9C%BC%E9%95%9C/005TenYmgy1ftj1fqiqy8j32d33jnb2e.jpg)
 
-打开文件夹，恭喜各位禽兽，可以尽情发泄自己的兽欲了！！！
-
-![image](https://github.com/sunchuan256/latex_cos/blob/master/Project_Description_Images/5.png)
 
 
